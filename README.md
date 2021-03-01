@@ -1,10 +1,5 @@
 ### Helloworld 👋
 
-<!--
-**g-roger/g-roger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - **M** I'm working at (Mastertech)[https://mastertech.com.br/]
 - 🔭 I’m currently working with microsservices and data science with python
 - 🌱 I’m currently learning machine learning and deep learning 
