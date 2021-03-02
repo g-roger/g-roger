@@ -11,4 +11,4 @@
 
 # Top Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-roger&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-roger&show_icons=true&theme=radical&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
