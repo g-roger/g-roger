@@ -7,8 +7,8 @@
 
 # Stats
 
-[![groger GitHub stats](https://github-readme-stats.vercel.app/api?username=g-roger&count_private=true&show_icons=true&theme=tokyonight&orgs=mastertech,estacaohack10,icatu-trivium,probem)](https://github.com/anuraghazra/github-readme-stats)
+[![groger GitHub stats](https://github-readme-stats.vercel.app/api?username=g-roger&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 # Top Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-roger&show_icons=true&theme=tokyonight&layout=compact&count_private=true&orgs=mastertech,estacaohack10,icatu-trivium,probem)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-roger&show_icons=true&theme=tokyonight&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
