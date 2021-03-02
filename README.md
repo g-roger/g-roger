@@ -7,8 +7,12 @@
 
 # Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g-roger&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![groger GitHub stats](https://github-readme-stats.vercel.app/api?username=g-roger&count_private=true&show_icons=true&theme=tokyonight&orgs=mastertech,estacaohack10,icatu-trivium,probem)](https://github.com/anuraghazra/github-readme-stats)
 
 # Top Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-roger&show_icons=true&theme=radical&layout=compact&count_private=true&isFork=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-roger&show_icons=true&theme=tokyonight&layout=compact&count_private=true&orgs=mastertech,estacaohack10,icatu-trivium,probem)](https://github.com/anuraghazra/github-readme-stats)
+
+# Wakatime stats
+
+[![groger wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=g-roger&show_icons=true&theme=tokyonight&layout=compact&count_private=true&orgs=mastertech,estacaohack10,icatu-trivium,probem)](https://github.com/anuraghazra/github-readme-stats)
