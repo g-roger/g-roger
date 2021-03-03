@@ -12,3 +12,7 @@
 # Top Langs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-roger&show_icons=true&theme=tokyonight&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+# Top Langs Mastertech
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastertech&show_icons=true&theme=tokyonight&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
