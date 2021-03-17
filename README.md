@@ -1,7 +1,8 @@
 ### Helloworld 👋
 
 -    I'm working at [Mastertech!](https://mastertech.com.br)
-- 🔭 I’m currently working building microsservices and teaching data science with python
+- 🔭 I’m currently working building microsservices
+- 🔭 I have experience with data science
 - 🌱 I’m currently learning models of machine learning  
 - 👯 I’m looking to collaborate with open source projects discovering new skills
 
