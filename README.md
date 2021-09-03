@@ -1,9 +1,9 @@
 ### Helloworld 👋
 
--    I'm working at [Mastertech!](https://mastertech.com.br)
-- 🔭 I’m currently working building microsservices
+- 🔭 I'm working at Pagseguro with data engineer
+- 🔭 I have already worked with microsservices
 - 🔭 I have experience with data science
-- 🌱 I’m currently doing a MBA in Artificial Inteligence & Machine Learning 
+- 🔭 I’m currently doing a MBA in Artificial Inteligence & Machine Learning 
 
 # Stats
 
