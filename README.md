@@ -1,6 +1,6 @@
 ### Helloworld 👋
 
-- 🔭 I'm working at PagSeguro Uol with data engineer
+- 🔭 I'm working at PagSeguro Uol with data engineering
 - 🔭 I have already worked with microsservices
 - 🔭 I have experience with data science
 - 🔭 I’m currently doing a MBA in Artificial Inteligence & Machine Learning 
