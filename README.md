@@ -2,9 +2,9 @@
 
 <a href="https://github.com/g-roger?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a></p>
 
-- 🔭 I'm working at PagSeguro Uol with data engineering and analytics
+- 🔭 I'm working at PagSeguro Uol with data science, creating models related to browser fingerprint
+- 🔭 I have knowledge related to data engineer
 - 🔭 I have experience developing microsservices with python
-- 🔭 I love data science
 - 🔭 I have already done a MBA in Artificial Inteligence & Machine Learning 
 
 # Stats
