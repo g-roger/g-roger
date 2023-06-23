@@ -2,7 +2,7 @@
 
 <a href="https://github.com/g-roger?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a></p>
 
-🔭 As a Data Scientist at PagSeguro Uol, I build models related to browser fingerprinting. My work involves analyzing and interpreting complex data sets to identify patterns and develop predictive models.
+🔭 As a Data Scientist at Pagbank, I build models related to browser fingerprinting. My work involves analyzing and interpreting complex data sets to identify patterns and develop predictive models.
 
 🔭 In addition to my work in data science, I have experience as a Data Engineer. I am skilled in designing, building, and maintaining large-scale data processing systems that are capable of handling vast amounts of data efficiently.
 
