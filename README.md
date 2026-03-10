@@ -10,10 +10,4 @@
 
 🔭 I hold an MBA in Artificial Intelligence & Machine Learning, which has provided me with a deep understanding of the latest trends and developments in the field. My coursework focused on machine learning algorithms, neural networks, and natural language processing, among other key topics.
 
-# Stats
-
-[![groger GitHub stats](https://github-readme-stats.vercel.app/api?username=g-roger&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-roger&hide_progress=True&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [visit my linkedin for more information](https://www.linkedin.com/in/gabriel-roger/)
